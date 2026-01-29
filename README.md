@@ -1,19 +1,18 @@
-# README
+README
 hunganh-kun
-## 👋 Giới thiệu
-its me again
-Currently studying in University of Engineering and Technology - Vietnam National University
-Faculty : Computer Engineering
-just hope i can graduate in mid 2030 TT
-a fresheer with code
-## 🚀 Dự án hiện tại
+👋
+its me again\n
+Currently studying in University of Engineering and Technology - Vietnam National University\n
+Faculty : Computer Engineering\n
+just hope i can graduate in mid 2030 TT\n
+a fresher with code\n
+🚀 Current Projects
+updating
 
-<!-- Liệt kê các dự án bạn muốn giới thiệu -->
-
-## 🧰 Tech Stack
+🧰 Tech Stack
 Python 
-## 🌐 Liên hệ
-Facebook : https://www.facebook.com/hunganh.ngo.2810
-Email : hunganhkun28@gmail.com
-## 📌 Ghi chú khác
+🌐 Contact
+Facebook : https://www.facebook.com/hunganh.ngo.2810 \n
+Email : hunganhkun28@gmail.com \n
+
 
